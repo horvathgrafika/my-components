@@ -1,0 +1,1 @@
+Minta feladat, mely tartalmazza a content és a footer elemeket.
